@@ -1,0 +1,39 @@
+.navbar-sticky-top {
+    height: 100px;
+    background-color: white;
+    }
+
+    .jumbotron {
+        height: 400px;
+        margin-bottom: 0px;
+        background-image: url(../images/sky.jpg);
+        background-position: 0% 25%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+        box-shadow: 2, 2, blur;
+        text-shadow: 5px, 5px, #000000;
+
+    }
+.navbar-brand {
+    width: 240px;
+    height: 100%;
+    background-image: url(../images/logowhitebackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-default {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+}
+
+.btn-default:hover {
+    background-color:#eee;
+}
